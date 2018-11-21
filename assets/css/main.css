@@ -151,7 +151,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			color: #7ecaf6; !important;
 		}
 
 	strong, b {
@@ -1840,8 +1840,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: #7ecaf6;
+				border-color: #7ecaf6;
 			}
 
 			.icon.style2:active {
@@ -2685,7 +2685,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #8499e7;
+				background-color: #7ecaf6;
 			}
 
 			.tiles article.style2 > .image:before {
@@ -2693,8 +2693,7 @@ input, select, textarea {
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #8499e7;
-				// #7bd0c1;
+				background-color: #7ecaf6;
 
 			}
 
